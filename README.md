@@ -116,6 +116,7 @@ Dataset-3
 
 ---
 
+# 🏬 All Folders will be uploaded here upon the publication of the paper ✅
 ## 📁 Repository Structure
 
 ```text
@@ -249,7 +250,7 @@ This project is released under the MIT License.
 
 ## 🙏 Acknowledgements
 
-We acknowledge the support of researchers, agricultural experts, and contributors involved in dataset collection and experimental validation.
+We acknowledge the support of researchers, agricultural experts, and contributors involved in dataset collection and experimental validation. 🧑‍💻 Special thanks to my co-researcher Abir Mondal for his dedication to this research for his valuable support and commitment.
 
 ---
 
@@ -261,10 +262,20 @@ For questions, collaborations, or research discussions:
 - Research Area: Machine Learning, Computer Vision, Agricultural AI
 - Email: subirbiswas192001@gmail.com
 - GitHub: [https://github.com/your-username](https://github.com/subirbiswas192001)
+- Linkdin: https://www.linkedin.com/in/subir-biswas-engineer/
+- Kaggle: https://www.kaggle.com/subirbiswas19
+  
+### 🤝
+- Name: Abir Mondal
+- Research Area: Machine Learning, Computer Vision, Agricultural AI
+- Email: chayanm4565@gmail.com
+- Linkdin: [https://www.linkedin.com/in/subir-biswas-engineer/](https://www.linkedin.com/in/chayanmondalabir/)
+- Kaggle: https://www.kaggle.com/chayanmondalabir
+
+
 
 ---
 
 ## ⭐ Star This Repository
 
 If you find this work useful for your research, please consider giving this repository a star.
-
