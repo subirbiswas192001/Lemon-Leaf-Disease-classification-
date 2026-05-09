@@ -7,6 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Research-red)
 ![Dataset](https://img.shields.io/badge/Dataset-CLP--14-success)
+[![Dataset](https://img.shields.io/badge/Dataset-Download-blue?logo=google-drive)]([YOUR_DATASET_LINK](https://www.kaggle.com/datasets/chayanmondalabir/citrus-leaf-pathology-multi-class-image-dataset))
 
 ### Deep Learning Framework for Citrus Leaf Disease Classification
 
