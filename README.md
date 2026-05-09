@@ -261,7 +261,7 @@ For questions, collaborations, or research discussions:
 - Name: Subir Biswas
 - Research Area: Machine Learning, Computer Vision, Agricultural AI
 - Email: subirbiswas192001@gmail.com
-- GitHub: [https://github.com/your-username](https://github.com/subirbiswas192001)
+- GitHub: https://github.com/subirbiswas192001
 - Linkdin: https://www.linkedin.com/in/subir-biswas-engineer/
 - Kaggle: https://www.kaggle.com/subirbiswas19
   
@@ -269,7 +269,7 @@ For questions, collaborations, or research discussions:
 - Name: Abir Mondal
 - Research Area: Machine Learning, Computer Vision, Agricultural AI
 - Email: chayanm4565@gmail.com
-- Linkdin: [https://www.linkedin.com/in/subir-biswas-engineer/](https://www.linkedin.com/in/chayanmondalabir/)
+- Linkdin: https://www.linkedin.com/in/chayanmondalabir/
 - Kaggle: https://www.kaggle.com/chayanmondalabir
 
 
