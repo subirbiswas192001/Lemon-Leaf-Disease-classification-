@@ -108,21 +108,26 @@ These results demonstrate the effectiveness and robustness of the proposed HMAF-
 
 ---
 
+## 📊 All # Dataset Links 
+
+CLP-14 : https://www.kaggle.com/datasets/chayanmondalabir/citrus-leaf-pathology-multi-class-image-dataset
+Dataset-2
+Dataset-3
+
+---
+
 ## 📁 Repository Structure
 
 ```text
 HMAF-Net/
 │
-├── dataset/
+├── Assets/
+├── datasets/
 ├── models/
 ├── notebooks/
 ├── results/
 ├── figures/
-├── saved_models/
 ├── requirements.txt
-├── train.py
-├── evaluate.py
-├── inference.py
 └── README.md
 ```
 
@@ -133,7 +138,7 @@ HMAF-Net/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/HMAF-Net.git
+git clone [https://github.com/your-username/HMAF-Net.git](https://github.com/subirbiswas192001/Lemon-Leaf-Disease-classification-.git)
 cd HMAF-Net
 ```
 
@@ -169,16 +174,6 @@ OpenCV
 
 ---
 
-## 🚀 Model Training
-
-Run the following command to train the model:
-
-```bash
-python train.py
-```
-
----
-
 ## 📈 Model Evaluation
 
 ```bash
@@ -193,18 +188,7 @@ Evaluation metrics include:
 - F1-score
 - Confusion Matrix
 - ROC-AUC Score
-
----
-
-## 🔍 Inference
-
-To test a single image:
-
-```bash
-python inference.py --image path_to_image
-```
-
----
+- MCC Test
 
 ## 🧪 Ablation Study
 
@@ -219,8 +203,7 @@ Several experiments were conducted to analyze the contribution of:
 ---
 
 ## 🌱 Applications
-
-The proposed framework can be used for:
+There is no practical Application But in future the proposed framework can be used for:
 
 - Automated plant disease diagnosis
 - Precision agriculture
@@ -228,14 +211,10 @@ The proposed framework can be used for:
 - Mobile-based agricultural applications
 - Real-time crop health monitoring
 
----
-
 ## ⚠️ Limitations
 
 - Increased computational complexity due to attention mechanisms and multi-branch architecture.
 - Dependence only on visual leaf features without environmental information.
-
----
 
 ## 🔮 Future Work
 
@@ -246,9 +225,7 @@ Future research directions include:
 - Real-time deployment on smart devices and edge systems.
 - Explainable AI (XAI) integration for improved interpretability.
 - Large-scale field validation with agricultural experts.
-
----
-
+- 
 ## 📚 Citation
 
 If you use this work in your research, please cite:
@@ -256,8 +233,8 @@ If you use this work in your research, please cite:
 ```bibtex
 @article{HMAFNet2026,
   title={Hybrid Multi-Branch Attention Fusion Network for Lemon Foliar Disease Classification},
-  author={Author Name},
-  journal={Journal Name},
+  author={Abir Mondal, Subir Biswas},
+  journal={----},
   year={2026}
 }
 ```
@@ -282,8 +259,8 @@ For questions, collaborations, or research discussions:
 
 - Name: Subir Biswas
 - Research Area: Machine Learning, Computer Vision, Agricultural AI
-- Email: your-email@example.com
-- GitHub: https://github.com/your-username
+- Email: subirbiswas192001@gmail.com
+- GitHub: [https://github.com/your-username](https://github.com/subirbiswas192001)
 
 ---
 
