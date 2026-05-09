@@ -10,6 +10,8 @@
 
 ### Deep Learning Framework for Citrus Leaf Disease Classification
 
+<img src="assets/lemon leaf disease.jpg" alt="Lemon Leaf Disease Dataset" width="700">
+
 </div>
 
 ## Lemon Foliar Disease Classification Using Deep Learning and Attention-Based Feature Fusion
