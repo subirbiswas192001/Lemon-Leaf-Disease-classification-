@@ -101,7 +101,7 @@ The proposed model achieved strong performance on both the proposed dataset and 
 | Dataset | Number of Class| Accuracy | 
 |------|------|------|
 | AegleMarmelos, Hog Plum, and Lemon Leaf Dataset | 4 |  97.48% | 
-|Citrus Fruits and Leaves Dataset| 95.89% | 5 |
+|Citrus Fruits and Leaves Dataset| 5 | 95.89% |
 | Comprehensive Lemon Leaf Disease Dataset| 9 |  98.23% |
 | Proposed CLP-14 | 14 | 92.76% |
 | CLP-14-Aug | 14 | 95.59% |
