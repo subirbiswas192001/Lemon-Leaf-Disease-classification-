@@ -1,1 +1,25 @@
+# Deep Learning
+tensorflow==2.15.0
+keras==2.15.0
 
+# Numerical Computing
+numpy==1.26.4
+scipy==1.14.1
+
+# Data Processing
+pandas==2.2.2
+
+# Machine Learning
+scikit-learn==1.5.1
+xgboost==2.1.1
+
+# Computer Vision
+opencv-python==4.10.0.84
+Pillow==10.4.0
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Model / HDF5 Support
+h5py==3.11.0
