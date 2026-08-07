@@ -17,7 +17,7 @@
 
 **HMAF-Net: Hybrid Multi-Branch Attention Fusion Network for Lemon Foliar Disease Classification**
 
-This repository contains the official implementation and supplementary resources for the proposed **Hybrid Multi-Branch Attention Fusion Network (HMAF-Net)** for citrus and lemon leaf disease classification.
+This repository contains the official implementation and supplementary resources for the proposed **Hybrid Multi-Branch Attention Fusion Network (HMAF-Net)** for lemon(citrus) leaf disease classification.
 
 HMAF-Net integrates a **DenseNet121 backbone**, multiple convolutional feature-extraction branches, **Squeeze-and-Excitation (SE) channel attention**, and **branch-level attention-based feature fusion** to learn complementary and discriminative representations for multi-class citrus leaf disease classification.
 
@@ -42,6 +42,7 @@ The proposed framework was developed and evaluated using the **Citrus Leaf Patho
 - Ablation experiments to investigate the contribution of major architectural components.
 - External validation using three independent datasets.
 - Computational complexity analysis including parameters, FLOPs, model size, inference latency, and throughput.
+- Explainability analysis using GradCAM++, Vanilla Gradients, Integrated Gradients, and SmoothGrad
 
 ---
 
@@ -418,11 +419,8 @@ Real-world deployment requires additional validation under diverse field conditi
 
 The current study has several limitations:
 
-- The proposed framework was primarily evaluated using curated datasets and does not yet provide comprehensive real-field validation.
 - Performance may be affected by variations in illumination, background complexity, occlusion, camera distance, and image quality.
 - Early-stage disease symptoms may be difficult to identify from visual features alone.
-- The current study does not explicitly address multiple simultaneous infections on the same leaf.
-- Disease severity estimation is outside the scope of the present work.
 - Generalization across different citrus varieties, geographic regions, and environmental conditions requires further investigation.
 - The multi-branch attention architecture introduces additional computational requirements compared with simpler CNN models.
 - Environmental variables such as temperature, humidity, and soil conditions are not incorporated into the current visual classification framework.
@@ -440,9 +438,7 @@ Planned directions include:
 - Evaluating robustness under varying illumination and complex backgrounds.
 - Addressing occlusion and different camera distances.
 - Investigating early-stage disease symptoms.
-- Extending the framework to disease severity estimation.
 - Investigating multiple simultaneous disease infections.
-- Evaluating domain adaptation across different citrus varieties and geographical regions.
 - Integrating multi-modal agricultural information such as temperature and humidity.
 - Optimizing the architecture for mobile and edge computing platforms.
 - Conducting large-scale field validation with agricultural experts.
@@ -484,7 +480,7 @@ Special thanks to **Abir Mondal** for his valuable contribution, dedication, res
 
 ## Subir Biswas
 
-- **Research Area:** Machine Learning, Computer Vision, Agricultural AI
+- **Research Area:** Healthcare AI , Signal Analysis, Smart System 
 - **Email:** subirbiswas192001@gmail.com
 - **Website:** https://subirbiswas192001.github.io/subir-web/
 - **LinkedIn:** https://www.linkedin.com/in/subir-biswas-engineer/
