@@ -353,19 +353,6 @@ pip install -r requirements.txt
 
 # 📦 Requirements
 
-The main libraries used in the project include:
-
-```text
-TensorFlow
-Keras
-NumPy
-Scikit-learn
-XGBoost
-Matplotlib
-Pandas
-OpenCV
-```
-
 The complete environment and package versions will be provided in `requirements.txt`.
 
 ---
@@ -457,7 +444,6 @@ Planned directions include:
 - Investigating multiple simultaneous disease infections.
 - Evaluating domain adaptation across different citrus varieties and geographical regions.
 - Integrating multi-modal agricultural information such as temperature and humidity.
-- Incorporating explainable AI techniques such as Grad-CAM.
 - Optimizing the architecture for mobile and edge computing platforms.
 - Conducting large-scale field validation with agricultural experts.
 
