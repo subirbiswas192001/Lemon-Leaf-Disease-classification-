@@ -88,9 +88,9 @@ Dataset/
 
 | Split | Percentage |
 |------|------|
-| Training | 80% |
-| Validation | 10% |
-| Testing | 10% |
+| Training | 70% |
+| Validation | 15% |
+| Testing | 15% |
 
 ---
 
@@ -98,21 +98,21 @@ Dataset/
 
 The proposed model achieved strong performance on both the proposed dataset and external benchmark datasets.
 
-| Dataset | Accuracy |
-|------|------|
-| CLP-14 | 96% |
-| Dataset-2 | 100% |
-| Dataset-3 | 97% |
+| Dataset | Number of Class| Accuracy | 
+|------|------|------|
+| AegleMarmelos, Hog Plum, and Lemon Leaf Dataset | 4 |  97.48% | 
+|Citrus Fruits and Leaves Dataset| 95.89% | 5 |
+| Comprehensive Lemon Leaf Disease Dataset| 9 |  98.23% |
+| Proposed CLP-14 | 14 | 92.76% |
+| CLP-14-Aug | 14 | 95.59% |
 
 These results demonstrate the effectiveness and robustness of the proposed HMAF-Net framework.
 
 ---
 
-## 📊 All # Dataset Links 
+## 📊 Dataset Link 
 
-CLP-14 : https://www.kaggle.com/datasets/chayanmondalabir/citrus-leaf-pathology-multi-class-image-dataset
-Dataset-2
-Dataset-3
+CLP-14, CLP-14-Aug : https://www.kaggle.com/datasets/chayanmondalabir/citrus-leaf-pathology-multi-class-image-dataset
 
 ---
 
@@ -123,10 +123,11 @@ Dataset-3
 HMAF-Net/
 │
 ├── Assets/
-├── datasets/
 ├── models/
 ├── notebooks/
 ├── results/
+├   ├── results/
+├   └── Ablation/ 
 ├── figures/
 ├── requirements.txt
 └── README.md
@@ -139,7 +140,7 @@ HMAF-Net/
 ### Clone Repository
 
 ```bash
-git clone [https://github.com/your-username/HMAF-Net.git](https://github.com/subirbiswas192001/Lemon-Leaf-Disease-classification-.git)
+git clone [copy link](https://github.com/subirbiswas192001/Lemon-Leaf-Disease-classification-.git)
 cd HMAF-Net
 ```
 
