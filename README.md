@@ -59,7 +59,7 @@ The proposed HMAF-Net architecture combines deep feature extraction and attentio
    - Branch attention fusion
 
 4. **Classification Layer**
-   - Random Forest (RF) classifier for final classification.
+   - Neural Network(NN) classifier for final classification.
 
 ---
 
